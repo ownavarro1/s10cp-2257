@@ -1,0 +1,20 @@
+{
+  "name": "s10cp-2257",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ownavarro1/s10cp-2257.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ownavarro1/s10cp-2257/issues"
+  },
+  "homepage": "https://github.com/ownavarro1/s10cp-2257#readme"
+}
