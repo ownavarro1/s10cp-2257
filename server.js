@@ -6,6 +6,6 @@ const server = http.createServer((req, res) => {
   res.end('Hola desarrollador');
 });
 
-console.log('mi nombre es: ', op.getNombre());
+// console.log('mi nombre es: ', op.getNombre());
 
 server.listen(8080);
